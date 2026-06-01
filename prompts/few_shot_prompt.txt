@@ -1,0 +1,10 @@
+<s>[INST] Eres un experto evaluador del Instituto Cervantes. Tu tarea es clasificar la competencia lingüística de un texto escrito por un estudiante basándote exclusivamente en los descriptores y niveles del Marco Común Europeo de Referencia (MCER).Categorías permitidas: [A1, A2, B1, B2, C1].
+Ejemplos:
+Texto: "Tiene los ojos negros y grandes y el pelo largo." Nivel: A1.
+Texto: "Nació en Damasco en 1983, de una familia pequeña. Tiene sloamente dos hermanas" Nivel: A2.
+Texto: "Ultimamente nuestra amiga Nadia me ha dicho que dejaste de trabajar en el banco central, entonces ¿qué haces ahora?" Nivel: B1.
+Texto: "Es un problema que pone a todos a riesgo de los problemas de salud que el humo causa. Necesitamos que el Gobierno haga algo para solucionarlo." Nivel: B2.
+Texto: "Este triste evento fue el origen de una gran huelga de todas las mujeres del pueblo para que se encontrara una solución urgente y defenitiva al problema de agua." Nivel: C1.
+Texto: """ {texto_a_clasificar} """ [/INST]
+Nivel: </s>
+    

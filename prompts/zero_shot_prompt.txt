@@ -1,0 +1,12 @@
+<s>[INST] Eres un experto evaluador del MCER (Marco Común Europeo de Referencia).
+Tu tarea es clasificar el nivel de dificultad de un texto en español.
+Categorías permitidas: [A1, A2, B1, B2, C1].
+Criterios:
+- A1: Vocabulario básico, frases cortas,  verbos ser, estar, tener, presente simple, me gusta, quiero. Información limitada, temas personales (casa, trabajo, descripciones). Conectores: y, o, pero.
+- A2: Vocabulario y gramática básicas (presente y pasado de indicativo, concordancias, artículos, posesivos, perífrasis básicas), aunque con errores. Habla de historias en pasado, deseos, opiniones y gustos (creo que, prefiero, me interesa, me parece, quizás).  Conectores: también, tampoco, porque.
+- B1: Enunciados breves y sencillos, enlazados por conectores habituales (ej.: es que, por eso, además, así que, aunque, como). Expresa opiniones sobre temas generales, de carácter abstracto o cultural. Mezcla verbos de tiempos del pasado, subjuntivo.
+- B2: Opiniones de temas abstractos: ventajas, desventajas, soluciones. Problemas como la educación, contaminación, tecnología. Tiempos de pasado y subjuntivo, Control gramatical alto. Oraciones subordinadas con conectores: sin embargo, en cuanto a, seguramente, ya que. 
+- C1: Precisión léxica y gramatical. Tecnicismos, matices implícitos. Pasado del subjuntivo, oraciones subordinadas, condicionales con subjuntivo. Frases hechas y coloquiales. Conectores como: a causa de, por consiguiente, por el contrario. 
+Analiza el siguiente texto y responde ÚNICAMENTE con la etiqueta del nivel (A1, A2, B1, B2, C1).
+Texto: """ {texto_a_clasificar} """ [/INST]
+Nivel: </s>
